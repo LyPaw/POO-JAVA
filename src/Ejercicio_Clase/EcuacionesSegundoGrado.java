@@ -1,3 +1,5 @@
+package Ejercicio_Clase;
+
 public class EcuacionesSegundoGrado {
 
     private double a;

@@ -1,4 +1,6 @@
-public record Triangulo(double a,double b, double h) {
+package Ejercicio_Clase;
+
+public record Triangulo(double a, double b, double h) {
 
 // Formulas
     public double hipotenusa() {
